@@ -1,0 +1,15 @@
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\PersistenceController.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\models\Consultas.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\TecnicosJpaController.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\models\Servicios.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\Controller.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\exceptions\NonexistentEntityException.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\exceptions\IllegalOrphanException.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\models\Incidentes.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\IncidentesJpaController.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\ServiciosJpaController.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\exceptions\PreexistingEntityException.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\mycompany\trabajointegrador\TrabajoIntegrador.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\controller\ClientesJpaController.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\models\Tecnicos.java
+C:\Users\toni\Documents\NetBeansProjects\TrabajoIntegrador\src\main\java\com\models\Clientes.java
