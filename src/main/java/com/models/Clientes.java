@@ -9,11 +9,15 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 
 
 @Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
@@ -21,7 +25,6 @@ import lombok.NoArgsConstructor;
 public class Clientes implements Serializable {    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
- //   @OneToOne
     private Integer idCliente;          
     @Basic
     private String razonSocial;    
